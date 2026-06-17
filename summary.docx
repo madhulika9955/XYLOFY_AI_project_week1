@@ -1,0 +1,9 @@
+### Insights & Summary
+
+1. The most important features influencing house prices were **area, number of bathrooms, parking spaces, number of stories, and preferred area**.
+2. Among the two models tested, **Linear Regression performed better** with an R² score of **0.653**, meaning it explained about **65% of the variation in house prices**.
+3. The model achieved moderate accuracy and was able to predict house prices reasonably well based on the available property features.
+4. One surprising observation was that amenities such as **air conditioning, furnishing status, and preferred area** had a significant impact on house prices.
+5. Houses with larger areas and more facilities generally had higher market values than smaller houses.
+6. The Random Forest model performed slightly worse than expected, indicating that the relationship between features and price in this dataset is relatively linear.
+7. Based on these findings, real estate businesses should focus on properties with larger areas and better amenities in preferred locations, as these factors contribute most to higher property values.
